@@ -16,5 +16,5 @@ streamlit run app.py
 - app.py      → interactive Streamlit app
 
 ## Authors
-- mariem bel eyi khieri bel a— matrix assembly, solvers, experiments
+- meryem khiari — matrix assembly, solvers, experiments
 - mazen mathlouthi — analysis, visualization, Streamlit app
